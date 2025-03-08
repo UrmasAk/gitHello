@@ -6,6 +6,8 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("friend still here, conflict");
         System.out.printf("stash");
+        System.out.printf("stash");
+
 
     }
 }
